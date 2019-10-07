@@ -13,34 +13,3 @@ img {
   float: left;
   margin-right: 10px;
 }
-
-#navbar ul{
-  list-style-type: none;
-  margin: 0;
-  padding: 0;
-}
-
-#navbar a{
-  margin-left: 60px;
-  margin-right: 60px;
-}
-
-.left {
-  float: left;
-  width: 300px;
-  padding: 1em;
-}
-
-.right {
-  float: right;
-  width: 300px;
-  padding: 1em;
-
-}
-
-.center {
-  margin-left: 300px;
-  width: 300px;
-  padding: 1em;
-}
-
