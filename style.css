@@ -1,0 +1,15 @@
+body {
+  color: darkblue;
+  font-family: "Open Sans";
+  background-color: ivory;
+  margin: 10px 50px 10px 50px;
+}
+
+h1 {
+  font-family: Oswald, monospace;
+}
+
+img {
+  float: left;
+  margin-right: 10px;
+}
